@@ -1,5 +1,5 @@
 [package]
-name = "my_bot"
+name = "main"
 version = "0.1.0"
 
 [dependencies]
